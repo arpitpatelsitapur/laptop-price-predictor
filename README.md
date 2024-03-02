@@ -64,8 +64,8 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or su
 
 [ARPIT PATEL] - [pa7238867@gmail.com] - [+919918510153]
 
-Project Link: [GitHub Repository](https://github.com/your-username/laptop-price-predictor)
-
+## Guess What!! I Deployed it using Streamlit Cloud.
+- check now - [https://laptop-price-predictor-using-ml.streamlit.app]
 
 Replace the placeholders (`![Laptop Price Predictor Logo/Image]`, `[Your Name]`, `[Your Email]`, `[Your Portfolio/Website]`, `[GitHub Repository]`) with your specific details. If your project has a logo or an image, replace the placeholder with the appropriate image URL.
 
